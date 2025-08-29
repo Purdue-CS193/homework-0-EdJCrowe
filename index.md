@@ -1,3 +1,11 @@
+## Edward's First CS193 Homework
+
+### My Favorite Things About CS193
+
+- Getting some experience with applications that are very important for CS work
+- Learning new things that will sharpen my coding skills and knowledge
+- Having 2 instructors that are pretty cool
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
