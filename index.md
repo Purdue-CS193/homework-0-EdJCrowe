@@ -32,6 +32,21 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### A Test
+
+- This section is to test the syntax of markdown
+- These demonstrations may be repeats of those orignally in the template
+
+## Such Demonstrations Include
+
+1. Numbered Lists
+2. **Seeing how things look when bolded**
+3. _And when they're italicized_
+4. [To see how links work](https://github.com/)
+5. ```
+   Another syntax Highlighted Codeblock
+   ```
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
